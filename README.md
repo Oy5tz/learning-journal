@@ -1,1 +1,1 @@
-# learning-journal
+# learning-journalDay 0: setup complete
